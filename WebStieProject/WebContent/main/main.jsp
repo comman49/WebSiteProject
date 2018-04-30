@@ -8,7 +8,8 @@
 </head>
 <body>
 <center>
-<h1>Git Hub Project</h1>
+	<h1>Git Hub Project</h1>
+	<h2>두번째 커밋</h2>
 </center>
 </body>
 </html>
